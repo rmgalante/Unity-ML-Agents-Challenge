@@ -1,0 +1,2258 @@
+Mono path[0] = 'C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/python/SpaceShooter_Data/Managed'
+Mono config path = 'C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/python/SpaceShooter_Data/MonoBleedingEdge/etc'
+PlayerConnection initialized from C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/python/SpaceShooter_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55288
+Multi-casting "[IP] 10.0.1.17 [Port] 55288 [Flags] 2 [Guid] 686624159 [EditorId] 3401221701 [Version] 1048832 [Id] WindowsPlayer(gc-desktop3) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55288]
+PlayerConnection already initialized - listening to [0.0.0.0:55288]
+Player data archive not found at `C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/python/SpaceShooter_Data/data.unity3d`, using local filesystem
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4059 MB
+    Driver:   21.21.13.7651
+Begin MonoManager ReloadAssembly
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.Core.dll (this message is harmless)
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.Numerics.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.ValueTuple.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\TensorFlowSharp.dll into Unity Child Domain
+Loading C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.dll (this message is harmless)
+- Completed reload, in  0.037 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\Mono.Security.dll (this message is harmless)
+UnloadTime: 0.742452 ms
+Platform assembly: C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.Configuration.dll (this message is harmless)
+Platform assembly: C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\python\SpaceShooter_Data\Managed\System.Data.dll (this message is harmless)
+Agent9 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent2 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent5 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+Done_GameController:Start() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:50)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent2 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent2 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent5 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent5 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent9 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent9 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent5 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent5 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent6 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent6 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent5 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent5 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Can not play a disabled audio source
+UnityEngine.AudioSource:Play(AudioSource, UInt64)
+UnityEngine.AudioSource:Play() (at C:\buildslave\unity\build\artifacts\generated\common\modules\Audio\AudioBindings.gen.cs:617)
+Done_WeaponController:Fire() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_WeaponController.cs:19)
+
+[C:/buildslave/unity/build/Runtime/Audio/AudioSource.cpp line 550] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs Line: 617)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent2 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent2 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent2 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent2 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent9 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent9 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent9 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent9 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent4 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent4 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent8 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent8 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent3 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent3 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent9 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent9 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent5 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent5 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Can not play a disabled audio source
+UnityEngine.AudioSource:Play(AudioSource, UInt64)
+UnityEngine.AudioSource:Play() (at C:\buildslave\unity\build\artifacts\generated\common\modules\Audio\AudioBindings.gen.cs:617)
+Done_WeaponController:Fire() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_WeaponController.cs:19)
+
+[C:/buildslave/unity/build/Runtime/Audio/AudioSource.cpp line 550] 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/modules/Audio/AudioBindings.gen.cs Line: 617)
+
+Agent1 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent1 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent7 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent7 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Agent10 resetting game!
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+Done_GameController:ResetGame() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:220)
+SpaceShooterNavigatorAgent:AgentReset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\AI Experiment\Scripts\SpaceShooterNavigatorAgent.cs:62)
+Agent:Reset() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Agent.cs:199)
+Brain:ResetIfDone() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Brain.cs:363)
+Academy:Step() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:202)
+Academy:RunMdp() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:307)
+Academy:FixedUpdate() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\ML-Agents\Scripts\Academy.cs:259)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 220)
+
+Agent10 exiting SpawnWaves.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+<SpawnWaves>c__Iterator0:MoveNext() (at C:\Users\rmgal\Documents\Unity3d\SpaceShooter\Projects\ML-Agents\Space Shooter AI\Assets\_Complete-Game\Scripts\Done_GameController.cs:147)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr) (at C:\buildslave\unity\build\Runtime\Export\Coroutines.cs:17)
+ 
+(Filename: C:/Users/rmgal/Documents/Unity3d/SpaceShooter/Projects/ML-Agents/Space Shooter AI/Assets/_Complete-Game/Scripts/Done_GameController.cs Line: 147)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2bc1c -> priority: 1 
+  Thread -> id: 2bde8 -> priority: 1 
+  Thread -> id: 2bb88 -> priority: 1 
+  Thread -> id: 2a098 -> priority: 1 
