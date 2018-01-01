@@ -9,9 +9,7 @@ The folder, Space Shooter AI, contains a modified version of the Space Shooter d
 
 ## Authors
 
-* **Rob Galante** - *Initial work* - [Galaware Consulting LLC](http://www.galaware.com)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Rob Galante** - *First Release* - [Galaware Consulting LLC](http://www.galaware.com)
 
 ## License
 
