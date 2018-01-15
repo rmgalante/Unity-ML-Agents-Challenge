@@ -6,6 +6,8 @@ The folder, python, contains the jupyter notebook files and the curriculum learn
 
 The folder, Space Shooter AI, contains a modified version of the Space Shooter demo project that is available in the Unity Asset Store. This project has been modified extensively to allow for the creation of multiple games in one scene.
 
+Visit the article associated with this repository at Unity Connect, https://connect.unity.com/p/space-shooter-with-ml-agents-1.
+
 
 ## Authors
 
